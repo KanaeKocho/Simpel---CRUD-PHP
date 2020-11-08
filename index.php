@@ -21,7 +21,7 @@ if (isset($_POST["submit"])) {
 	<div align="center">
 		<h1>Daftar Teman Online (ini gabut doang)</h1>
 
-		<a href="database.php" style="color: black;">Tambah Data Teman (Klik Ini y telaso klo mau namanya mncl di kolom ;v)</a>
+		<a href="tambah.php" style="color: black;">Tambah Data Teman (Klik Ini y telaso klo mau namanya mncl di kolom ;v)</a>
 		<br></br>
 		<a href="login.php" style="color: black;">Klik Disini Untuk Mengubah Dan Menambahkan Data (Only Admin)</a>
 		<br></br>
