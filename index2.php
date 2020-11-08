@@ -11,7 +11,7 @@ if ( isset($_POST["cari"])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Teman Onlen KU :v</title>
+	<title>Teman Onlen KUU :v</title>
 </head>
 <body>
 
